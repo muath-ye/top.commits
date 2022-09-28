@@ -1,0 +1,6 @@
+{
+  "devMode": "false",
+  "locations":[
+    { "country":  "yemen", "geoName": "Yemen", "cities": ["Amant Al Asmah", "Sanaa", "Aden", "Al Hodeidah", "Thamar", "Amran", "Hajjah", "Ibb", "Sadah", "Al Baidha", "Shabwah", "Taiz", "Al jawf", "Marib", "Hadramot", "Al Maharah", "Al Dhale", "Al Mahweet", "Lahj", "Raimah", "Socatra", "Abyan"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg" }
+  ]
+}
