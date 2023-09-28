@@ -2,7 +2,7 @@ name: Top GitHub Users
 on:
   schedule:
     # Triggers the workflow every 5 minutes [minutes, hours, days, months, every number of days]
-    - cron: '*/5 * * * *'
+    - cron: '*/50 * * * *'
   workflow_dispatch:
 jobs:
   release:
