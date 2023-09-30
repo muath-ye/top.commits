@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg" alt="Yemen">
 </a>
 
-The `public contributions` and `private contributions` by users in Yemen on `2023/9/30 2:55 PM UTC`. This list contains users from `Yemen` and cities `Amant Al Asmah` `Sanaa` `Aden` `Al Hodeidah` `Thamar` `Amran` `Hajjah` `Ibb` `Sadah` `Al Baidha` `Shabwah` `Taiz` `Al Jawf` `Marib` `Hadramot` `Al Maharah` `Al Dhale` `Al Mahweet` `Lahj` `Raimah` `Socatra` `Abyan`.
+The `public contributions` and `private contributions` by users in Yemen on `2023/9/30 3:11 PM UTC`. This list contains users from `Yemen` and cities `Amant Al Asmah` `Sanaa` `Aden` `Al Hodeidah` `Thamar` `Amran` `Hajjah` `Ibb` `Sadah` `Al Baidha` `Shabwah` `Taiz` `Al Jawf` `Marib` `Hadramot` `Al Maharah` `Al Dhale` `Al Mahweet` `Lahj` `Raimah` `Socatra` `Abyan`.
 
 There are `1 countries` and `22 cities` can be found [here](https://github.com/muath-ye/top.commits).
 
