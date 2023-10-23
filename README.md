@@ -5,7 +5,7 @@
 	<img align="right" width="400" src="https://github.com/muath-ye/top-users-monitor/raw/master/public/images/banner/top-users-map.png" alt="top-users-by-country">
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2023/10/23 8:16 AM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2023/10/23 8:55 AM UTC`.
 
 This repository contains users `1 countries` and `22 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/muath-ye/top.commits/blob/main/config.json).
